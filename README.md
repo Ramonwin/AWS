@@ -8,15 +8,17 @@ Analytics:
 3. Amazon QuickSight
 
 Application Integration:
-   Amazon Simple Notification Service (Amazon SNS) 
-   Amazon Simple Queue Service (Amazon SQS)
+1. Amazon Simple Notification Service (Amazon SNS)
+2. Amazon Simple Queue Service (Amazon SQS)
+
 Compute and Serverless:
-   AWS Batch
-   Amazon EC2 
-   AWS Elastic Beanstalk
-   AWS Lambda
- Amazon Lightsail
- Amazon WorkSpaces
+1. AWS Batch
+2. Amazon EC2
+3. AWS Elastic Beanstalk
+4. AWS Lambda
+5. Amazon Lightsail
+6. Amazon WorkSpaces
+
 Containers:
  Amazon Elastic Container Service (Amazon ECS)
  Amazon Elastic Kubernetes Service (Amazon EKS)
