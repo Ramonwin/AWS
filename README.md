@@ -3,9 +3,9 @@
 AWS services and features
 
 Analytics:
- Amazon Athena
- Amazon Kinesis
- Amazon QuickSight
+1. Amazon Athena
+2. Amazon Kinesis
+3. Amazon QuickSight
 
 Application Integration:
    Amazon Simple Notification Service (Amazon SNS) 
