@@ -20,63 +20,68 @@ Compute and Serverless:
 6. Amazon WorkSpaces
 
 Containers:
- Amazon Elastic Container Service (Amazon ECS)
- Amazon Elastic Kubernetes Service (Amazon EKS)
- AWS Fargate
+1. Amazon Elastic Container Service (Amazon ECS)
+2. Amazon Elastic Kubernetes Service (Amazon EKS)
+3. AWS Fargate
+
 Database:
- Amazon Aurora
- Amazon DynamoDB
- Amazon ElastiCache
- Amazon RDS
- Amazon Redshift
+1. Amazon Aurora
+2. Amazon DynamoDB
+3. Amazon ElastiCache
+4. Amazon RDS
+5. Amazon Redshift
+
 Developer Tools:
- AWS CodeBuild 
- AWS CodeCommit
- AWS CodeDeploy
- AWS CodePipeline
- AWS CodeStar 
+1. AWS CodeBuild
+2. AWS CodeCommit
+3. AWS CodeDeploy
+4. AWS CodePipeline
+5. AWS CodeStar 
+
 Customer Engagement:
- Amazon Connect
-Management, Monitoring, and Governance:
- AWS Auto Scaling
- AWS Budgets
- AWS CloudFormation
- AWS CloudTrail
- Amazon CloudWatch
- AWS Config
- AWS Cost and Usage Report
- Amazon EventBridge (Amazon CloudWatch Events)
- AWS License Manager
- AWS Managed Services
- AWS Organizations
- AWS Secrets Manager
- AWS Systems Manager
- AWS Systems Manager Parameter Store
- AWS Trusted Advisor
+1. Amazon Connect
+2. Management, Monitoring, and Governance
+3. AWS Auto Scaling
+4. AWS Budgets
+5. AWS CloudFormation
+6. AWS CloudTrail
+7. Amazon CloudWatch
+8. AWS Config
+9. AWS Cost and Usage Report
+10. Amazon EventBridge (Amazon CloudWatch Events)
+11. AWS License Manager
+12. AWS Managed Services
+13. AWS Organizations
+14. AWS Secrets Manager
+15. AWS Systems Manager
+16. AWS Systems Manager Parameter Store
+17. AWS Trusted Advisor
+
 Networking and Content Delivery:
- Amazon API Gateway
- Amazon CloudFront
- AWS Direct Connect
- Amazon Route 53
- Amazon VPC
-Security, Identity, and Compliance:
- AWS Artifact
- AWS Certificate Manager (ACM)
- AWS CloudHSM
- Amazon Cognito
- Amazon Detective
- Amazon GuardDuty
- AWS Identity and Access Management (IAM)
- Amazon Inspector
- AWS License Manager
- Amazon Macie
- AWS Shield
- AWS WAF
+1. Amazon API Gateway
+2. Amazon CloudFront
+3. AWS Direct Connect
+4. Amazon Route 53
+5. Amazon VPC
+6. Security, Identity, and Compliance
+7. AWS Artifact
+8. AWS Certificate Manager (ACM)
+9. AWS CloudHSM
+10. Amazon Cognito
+11. Amazon Detective
+12. Amazon GuardDuty
+13. AWS Identity and Access Management (IAM)
+14. Amazon Inspector
+15. AWS License Manager
+16. Amazon Macie
+17. AWS Shield
+18. AWS WAF
+
 Storage:
- AWS Backup 
- Amazon Elastic Block Store (Amazon EBS)
- Amazon Elastic File System (Amazon EFS)
- Amazon S3
- Amazon S3 Glacier
- AWS Snowball Edge
- AWS Storage Gateway 
+1. AWS Backup
+2. Amazon Elastic Block Store (Amazon EBS)
+3. Amazon Elastic File System (Amazon EFS)
+4. Amazon S3
+5. Amazon S3 Glacier
+6. AWS Snowball Edge
+7. AWS Storage Gateway 
